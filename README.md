@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Omar Mousteau
+- 👋 Hi, I’m Omar Mousteau, Engineer.
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science in a CS Master at Centrale Lyon
 - 📫 My mail : mousteau.omar@gmail.com ; Phone Number : +33 7 81 72 79 02 ; LinkedIn : www.linkedin.com/in/omar-mousteau
 
 <!---
