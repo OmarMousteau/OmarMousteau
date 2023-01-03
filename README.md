@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Omar Mousteau, Engineer.
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning Data Science in a CS Master at Centrale Lyon
+- 🌱 I’m currently learning Data Science in a Master of Computer Science at Centrale Lyon. 
+- 🥅 Looking for a 6-month internship in Data Science.
 - 📫 My mail : mousteau.omar@gmail.com ; LinkedIn : www.linkedin.com/in/omar-mousteau
 
 <!---
